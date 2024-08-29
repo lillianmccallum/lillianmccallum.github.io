@@ -1,0 +1,39 @@
+.site-footer {
+    border-top: 1px solid $grey-color-light;
+    padding: $spacing-unit / 4 0;
+}
+
+.footer-col {
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 4;
+}
+
+.footer-col-1 {
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
+    padding-right: 15%;
+}
+
+.footer-col-3 {
+    width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+    width:         calc(25% - (#{$spacing-unit} / 2));
+}
+
+.site-title {
+    @include relative-font-size(1.875);
+    font-weight: 300;
+
+    &,
+    &:visited {
+      color: grey-color-dark;
+    }
+}
+
+.site-header {
+    border-top: 2px solid $grey-color-dark;
+}

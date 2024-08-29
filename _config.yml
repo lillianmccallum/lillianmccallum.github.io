@@ -1,0 +1,75 @@
+# Site Settings
+title: 
+email: 
+description: >- 
+  A personal website and blog.
+baseurl: ""
+
+# Personal
+github_username: 
+linkedin_username: 
+author: 
+
+# Build Settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+minima:
+  skin: "classic"
+permalink: /:title.html
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+header_pages:
+  - index.markdown
+  - portfolio.md
+
+# Markdown Processing
+kramdown:
+  input: GFM # GitHub Flavored Markdown.
+  auto_ids: true # Automatically generate IDs for headers for deep linking.
+  syntax_highlighter: rouge # Use Rouge for syntax highlighting.
+
+# URL Settings
+im_base: /assets/images # Base URL for images, can be used in Markdown files.
+im_eng: /assets/images/engineering
+im_writing: /assets/images/writing
+im_trips: /assets/images/trips
+pdf_base: /assets/pdfs/
+
+collections:
+  projects:
+    output: true
+  stories:
+    output: true
+  trips:
+    output: true
+
+
+# Exclusions
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - _site/
+  - .DS_Store
+  - README.md
+
+# Development Settings
+development:
+  show_drafts: true # show draft posts during local development.
+
+# Plugin Configuration
+jekyll-feed:
+  path: "feed.xml" 
+

@@ -1,0 +1,19 @@
+<header class="site-header" role="banner">
+
+  <div style="line-height:60%;">
+    <br>
+  </div>
+  <div class="wrapper">
+      {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <nav class="site-nav">
+      <div>
+        <!-- Additional links for each collection -->
+        <a class="page-link" href="{{ site.baseurl }}/projects/">Engineering Projects</a>
+        <a class="page-link" href="{{ site.baseurl }}/stories/">Short Stories</a>
+        <a class="page-link" href="{{ site.baseurl }}/trips/">Trip Reports</a>
+      </div>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,20 @@
+# Site output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Dependency directories
+/vendor/
+/node_modules/
+
+# Ignore Gemfile lock for varying gem environments
+# Uncomment to unlocking environment across multiple machines
+# Gemfile.lock
+
+# Ignore environment configuration file
+.env
+
+# Ignore system-specific configuration for VS Code and Obsidian
+.vscode/
+.obsidian/
