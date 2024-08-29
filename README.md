@@ -37,8 +37,13 @@ bundle install
 bundle exec jekyll serve
 ```
 - This will build the site and start a local server, which will be accessible at http://localhost:4000.
+- This probably requires making the folder into a git repo (see [the docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories)) and make sure to name your repo `<github username>.github.io` when pushing to github
 
 6. View Your Site
 - Open your web browser and go to http://localhost:4000 to view your site. You can now edit your files and see the changes live.
 7. Stop the Server
 - When you're done, you can stop the server by pressing CTRL + C in the Command Prompt or PowerShell.
+8. Push to github and wait for the Site to Go Live
+- In the "Pages" settings of your repository, ensure that the "Enforce HTTPS" option is enabled. This will ensure your site is served securely over HTTPS.
+- It may take a few minutes for GitHub Pages to build and deploy your site. Once done, you can access your site at `https://<yourusername>.github.io.`
+- Clear your browser cache or use a private/incognito window to ensure you see the latest version of your site.
