@@ -1,14 +1,14 @@
 # Site Settings
-title: 
-email: 
+title: Your website title
+email: your@email.com
 description: >- 
   A personal website and blog.
 baseurl: ""
 
 # Personal
-github_username: 
-linkedin_username: 
-author: 
+github_username: your_github_username
+linkedin_username: your_linkedin_username
+author: your_name
 
 # Build Settings
 theme: minima

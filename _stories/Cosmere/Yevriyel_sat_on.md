@@ -10,4 +10,4 @@ Story
 \
 _word count_ \
 _date_ \
-[all-stories](all-stories.html)
+[all-stories](../all-stories.html)
