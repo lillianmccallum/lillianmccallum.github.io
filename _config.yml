@@ -1,13 +1,13 @@
 # Site Settings
 title: Lillian McCallum
-email: your@email.com
+email: lillianmccallum@icloud.com
 description: >- 
   Lillian's personal website and blog.
 baseurl: ""
 
 # Personal
 github_username: lillianmccallum
-linkedin_username: your_linkedin_username
+linkedin_username: lillian-mccallum
 author: Lillian McCallum
 
 # Build Settings
