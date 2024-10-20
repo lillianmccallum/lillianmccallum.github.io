@@ -13,5 +13,6 @@ This is a list of blog posts and newletters written by me, Lillian McCallum. The
 
 | Title                               | Date written |
 | ----------------------------------- | ------------ |
+| [blogpost1](bloppost1.html) | today |
 | [Title](Title.html) | Date written |
 

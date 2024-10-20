@@ -10,7 +10,7 @@ Website URL is `https://lillianmccallum.github.io/`.
 4. In the terminal type `git add .` and hit enter.
 5. In the terminal type `git commit -m "update"` and possibly replace update with a description of what changed.
 6. In the terminal type `git push`
-
+ 
 ### Adding a new page:
 
 1. Go to the category folder (e.g., \_blog, \_trips)
