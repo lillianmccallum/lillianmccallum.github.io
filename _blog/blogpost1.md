@@ -1,16 +1,8 @@
 ---
 layout: default
-title: blogpost 1
+title: Email 1
 ---
 
-# Title
-## smaller title
-### even smaller
+# Email #1
 
-some text
-
-**bold text**
-
-*italic*
-
-<img src="/assets/images/profile-picture.jpg" alt="Picture of me hiking" width="600">
+<img src="/assets/pdfs/<email_1>.pdfs" alt="Picture of me hiking" width="600">

@@ -11,9 +11,7 @@ This is a list of blog posts and newletters written by me, Lillian McCallum. The
 
 ### Posts
 
-| Lillian's Educational Email Series: Email #1                               | November 22, 2022 |
+| Title | Date |
 | ----------------------------------- | ------------ |
-| [blogpost1](blogpost1.html) | today |
-| [Title](Title.html) | Date written |
-
-<img src="/assets/pdfs/<email_1>.pdfs" alt="Picture of me hiking" width="600">
+| [Lillian's Educational Email Series: Email #1](blogpost1.html) | November 22, 2022 |
+| [Title](Title.html) | November 22, 2022 |
