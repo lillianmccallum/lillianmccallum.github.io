@@ -1,12 +1,12 @@
 # Site Settings
-title: Your website title
+title: Lillian McCallum
 email: your@email.com
 description: >- 
   A personal website and blog.
 baseurl: ""
 
 # Personal
-github_username: your_github_username
+github_username: lillianmccallum
 linkedin_username: your_linkedin_username
 author: your_name
 
