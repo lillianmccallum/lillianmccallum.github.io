@@ -18,3 +18,7 @@ _site/
 # Ignore system-specific configuration for VS Code and Obsidian
 .vscode/
 .obsidian/
+
+# Ignore Mac Data Storage files
+.DS_Store
+*/.DS_Store
