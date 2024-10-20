@@ -30,7 +30,7 @@ title: <title>
 1. Add the image to the assets>images folder
 2. In the page you want to add it, put the following:
 ```
-<img src="./assets/images/<title>.<type>" alt="Picture of me hiking" width="600">
+<img src="/assets/images/<title>.<type>" alt="Picture of me hiking" width="600">
 ```
 
 and replace `<title>.<type>` with the file name and type
@@ -38,5 +38,5 @@ and replace `<title>.<type>` with the file name and type
 ### For PDFs:
 1. Put the PDF in the assets>pdfs folder and use the following in the webpage:
 ```
-<img src="./assets/pdfs/<title>.pdfs" alt="Picture of me hiking" width="600">
+<img src="/assets/pdfs/<title>.pdfs" alt="Picture of me hiking" width="600">
 ```
