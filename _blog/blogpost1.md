@@ -13,4 +13,4 @@ some text
 
 *italic*
 
-<img src="./assets/images/profile-picture.jpg" alt="Picture of me hiking" width="600">
+<img src="/assets/images/profile-picture.jpg" alt="Picture of me hiking" width="600">
