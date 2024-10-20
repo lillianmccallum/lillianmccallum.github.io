@@ -7,7 +7,7 @@ title: Homepage
 
 Hello and welcome to my website.
 
-This website is a collection of project showcases, short stories I've written, and more.
+This website is a collection of project showcases, blog posts, newsletters I've written, and more.
 
 __Links to other pages:__
 
