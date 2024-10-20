@@ -14,9 +14,8 @@ __Links to other pages:__
 | Page | Description |
 | ---- | ----------- |
 | [Engineering Projects](projects/all-engineering-projects.html) | Index of my engineering projects |
-| [Short Stories](/stories/all-stories.html) | Index of my short stories |
+| [Blog/Newsletters](/blog/all-blogs.html) | Index of my blog posts and newsletters |
 | [Trip Reports](trips/all-trip-reports.html) | Index of my trip reports |
-| [Media Gallery](pages/image-gallery.html) | Consolidated page of images (and possibly other media) |
 
 Resume: [[PDF-2024](/assets/pdfs/resume.pdf)]
 

@@ -2,13 +2,13 @@
 title: Lillian McCallum
 email: your@email.com
 description: >- 
-  A personal website and blog.
+  Lillian's personal website and blog.
 baseurl: ""
 
 # Personal
 github_username: lillianmccallum
 linkedin_username: your_linkedin_username
-author: your_name
+author: Lillian McCallum
 
 # Build Settings
 theme: minima
@@ -39,14 +39,14 @@ kramdown:
 # URL Settings
 im_base: /assets/images # Base URL for images, can be used in Markdown files.
 im_eng: /assets/images/engineering
-im_writing: /assets/images/writing
+im_blog: /assets/images/blog
 im_trips: /assets/images/trips
 pdf_base: /assets/pdfs/
 
 collections:
   projects:
     output: true
-  stories:
+  blog:
     output: true
   trips:
     output: true
